@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;$ $ Find me here $ $
 
-[<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/akashkumar0987d)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash-kumar-a166211b4/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/akash0987d/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/akashkumar0985/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/akashkumar15901)
+[<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/pawarharsh)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshpawar9876)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/pawarharsh9876)  
 
 </p>
 
