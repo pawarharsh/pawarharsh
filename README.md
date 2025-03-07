@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarharsh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarharsh" /> </p>
 
-- 🌱 I’m currently learning  ** Java **
-
 - 👯 I’m looking to collaborate on **open source project**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
