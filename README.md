@@ -20,6 +20,7 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://cdn-icons-png.flaticon.com/128/16183/16183567.png" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="html5" width="40" height="40"/> 
 
 </a> </p>
 
