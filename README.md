@@ -1,10 +1,8 @@
 <h1 align="center"> <img src="https://github.com/pawarharsh/Assets/blob/master/gif/Harsh%20Banner.gif"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarharsh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarharsh" /> </p>
-
-
 <p><a href="https://vinodjangid07.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a></p>
-<br><br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pawarharsh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarharsh" /> </p>
+
 <p align="right"><img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200px"></p>
 <ul align="left">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
@@ -40,6 +38,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="html5" width="40" height="40"/> 
 
-</a> </p>
+</a><br><br> </p>
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawarharsh&show_icons=true&theme=graywhite)
