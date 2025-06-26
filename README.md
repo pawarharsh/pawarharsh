@@ -2,10 +2,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarharsh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarharsh" /> </p>
 
-- 👯 I’m looking to collaborate on **open source project**
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p><a href="https://vinodjangid07.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a></p>
 <br><br>
+<p align="right"><img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200px"></p>
+<ul align="left">
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Automation tester & ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developer ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👯 I’m looking for collaborations and making products ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://portfolio-harshpawar.netlify.app/" target="_blank">Portfolio</a> to know more about me ...</li>
+</ul>
+<br>
+<br>
+
 <p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fe9e5a0d-e48a-4fac-ba66-d6d99c368d54"></p>
 <br>
 <p align="left">
@@ -13,14 +23,12 @@
   <a href="mailto:pawarharsh2019@gmail.com" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail"></a>
  <a href="https://www.instagram.com/pawarharsh9876" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
  <a href="https://portfolio-harshpawar.netlify.app/" target="_blank"><img src="https://github.com/pawarharsh/Assets/blob/master/png/cropped-Media-removebg-preview%20(1).png" alt="Portfolio" height="50" title="Portfolio"></a>
+ 
 </p>
 <br>
-
 <img width="137" alt="Frame 22" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
-<br><br><br>
+<br><br>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
