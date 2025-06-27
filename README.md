@@ -2,7 +2,7 @@
 
 <p><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></p>
 <br><br>
-<p align="right"><img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200px"></p>
+<p align="right"><img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300px"></p>
 <ul align="left">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Automation tester & ...</li>
@@ -46,6 +46,6 @@
 
 </a><br><br> </p>
 <p><img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe"><br><br></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarharsh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarharsh" /> <br><br></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarharsh&label=Profile%20views&color=ce27e1&style=flat" alt="pawarharsh" /> <br><br></p>
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawarharsh&show_icons=true&theme=graywhite)
